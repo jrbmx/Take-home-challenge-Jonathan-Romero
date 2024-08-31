@@ -5,7 +5,7 @@
   <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
-ago 30, 2024 11:02:39 P. M. tech.grasshopper.pdf.PDFCucumberReport collectReportConfiguration
+ago 30, 2024 11:22:01 P. M. tech.grasshopper.pdf.PDFCucumberReport collectReportConfiguration
 INFO: PDF report configuration YAML file not found. Using default settings.
 ]]></system-err>
 </testsuite>
